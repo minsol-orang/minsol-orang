@@ -38,19 +38,6 @@ React, JavaScript, Git, GitHub
 ---
 
 <br />
-
-## GitHub Stats
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=55yc47cq5g&show_icons=true&hide_border=true&title_color=F4A7BB&icon_color=F4A7BB&text_color=555555&bg_color=FFF7FA" />
-
-<br />
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=55yc47cq5g&layout=compact&hide_border=true&title_color=F4A7BB&text_color=555555&bg_color=FFF7FA" />
-
-<br />
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F8C8DC&height=80&section=footer" />
