@@ -1,29 +1,61 @@
-## Hi there 👋
-
-<!--
-**minsol-orang/minsol-orang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 
-<!-- Welcome Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8C7A3&height=180&section=header&text=Welcome%20to%20Minsol's%20GitHub&fontSize=38&fontColor=5A3E2B&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8C8DC&height=140&section=header&text=Welcome%20to%20Minsol's%20GitHub&fontSize=34&fontColor=FFFFFF&animation=fadeIn" />
 
 <br />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&size=22&pause=1000&color=8B5E3C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Minsol+Kim+%F0%9F%8C%B7;Software+Engineering+Student;Learning+Frontend+Development;Slowly+but+surely+growing+as+a+developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&size=22&pause=1200&color=F4A7BB&center=true&vCenter=true&width=500&lines=Software+Engineering+Student" />
+
+---
+
+<br />
+
+## Tech Stack
+
+<br />
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+<br />
+<br />
+
+---
+
+<br />
+
+## Currently Learning
+
+<br />
+
+React, JavaScript, Git, GitHub  
+그리고 프로젝트를 통해 웹 개발 흐름을 익히고 있습니다.
+
+<br />
+
+---
+
+<br />
+
+## GitHub Stats
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=55yc47cq5g&show_icons=true&hide_border=true&title_color=F4A7BB&icon_color=F4A7BB&text_color=555555&bg_color=FFF7FA" />
+
+<br />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=55yc47cq5g&layout=compact&hide_border=true&title_color=F4A7BB&text_color=555555&bg_color=FFF7FA" />
+
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F8C8DC&height=80&section=footer" />
+
+</div>
 
 <br />
 <br />
