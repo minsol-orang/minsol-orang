@@ -52,13 +52,6 @@ React, JavaScript, Git, GitHub
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
 <br />
-<br />
-
----
-
-<br />
-
-> slowly but surely 🌱
 
 <br />
 
