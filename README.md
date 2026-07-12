@@ -6,13 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=22&pause=1200&color=F4A7BB&center=true&vCenter=true&width=600&lines=Software+Engineering+Student" />
 
-<br />
-<br />
-
-### Hi, I'm Minsol 🌷
-
-소프트웨어학과에서 공부하며  
-프론트엔드 개발을 배워가고 있습니다.
 
 <br />
 
